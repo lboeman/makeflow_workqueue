@@ -1,0 +1,1200 @@
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100
+frame1.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe001.png +K001
+frame2.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe002.png +K002
+frame3.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe003.png +K003
+frame4.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe004.png +K004
+frame5.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe005.png +K005
+frame6.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe006.png +K006
+frame7.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe007.png +K007
+frame8.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe008.png +K008
+frame9.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe009.png +K009
+frame10.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe010.png +K010
+frame11.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe011.png +K011
+frame12.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe012.png +K012
+frame13.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe013.png +K013
+frame14.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe014.png +K014
+frame15.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe015.png +K015
+frame16.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe016.png +K016
+frame17.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe017.png +K017
+frame18.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe018.png +K018
+frame19.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe019.png +K019
+frame20.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe020.png +K020
+frame21.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe021.png +K021
+frame22.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe022.png +K022
+frame23.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe023.png +K023
+frame24.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe024.png +K024
+frame25.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe025.png +K025
+frame26.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe026.png +K026
+frame27.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe027.png +K027
+frame28.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe028.png +K028
+frame29.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe029.png +K029
+frame30.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe030.png +K030
+frame31.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe031.png +K031
+frame32.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe032.png +K032
+frame33.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe033.png +K033
+frame34.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe034.png +K034
+frame35.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe035.png +K035
+frame36.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe036.png +K036
+frame37.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe037.png +K037
+frame38.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe038.png +K038
+frame39.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe039.png +K039
+frame40.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe040.png +K040
+frame41.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe041.png +K041
+frame42.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe042.png +K042
+frame43.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe043.png +K043
+frame44.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe044.png +K044
+frame45.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe045.png +K045
+frame46.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe046.png +K046
+frame47.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe047.png +K047
+frame48.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe048.png +K048
+frame49.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe049.png +K049
+frame50.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe050.png +K050
+frame51.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe051.png +K051
+frame52.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe052.png +K052
+frame53.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe053.png +K053
+frame54.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe054.png +K054
+frame55.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe055.png +K055
+frame56.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe056.png +K056
+frame57.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe057.png +K057
+frame58.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe058.png +K058
+frame59.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe059.png +K059
+frame60.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe060.png +K060
+frame61.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe061.png +K061
+frame62.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe062.png +K062
+frame63.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe063.png +K063
+frame64.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe064.png +K064
+frame65.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe065.png +K065
+frame66.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe066.png +K066
+frame67.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe067.png +K067
+frame68.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe068.png +K068
+frame69.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe069.png +K069
+frame70.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe070.png +K070
+frame71.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe071.png +K071
+frame72.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe072.png +K072
+frame73.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe073.png +K073
+frame74.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe074.png +K074
+frame75.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe075.png +K075
+frame76.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe076.png +K076
+frame77.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe077.png +K077
+frame78.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe078.png +K078
+frame79.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe079.png +K079
+frame80.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe080.png +K080
+frame81.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe081.png +K081
+frame82.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe082.png +K082
+frame83.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe083.png +K083
+frame84.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe084.png +K084
+frame85.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe085.png +K085
+frame86.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe086.png +K086
+frame87.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe087.png +K087
+frame88.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe088.png +K088
+frame89.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe089.png +K089
+frame90.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe090.png +K090
+frame91.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe091.png +K091
+frame92.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe092.png +K092
+frame93.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe093.png +K093
+frame94.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe094.png +K094
+frame95.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe095.png +K095
+frame96.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe096.png +K096
+frame97.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe097.png +K097
+frame98.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe098.png +K098
+frame99.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe099.png +K099
+frame100.png: munsell_1929.pov CIE.inc
+	povray +Imunsell_1929.pov +Oframe100.png +K100

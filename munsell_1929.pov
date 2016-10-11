@@ -60,7 +60,7 @@ camera
 		#case (0)
 			rotate		+x * asind(tand(30))
 			rotate		+y * 045
-			rotate		+y * clock*180
+			rotate		+y * clock*18
 			translate	-(x + z)/8
 		#break
 		#case (1)
