@@ -1,0 +1,77 @@
+// Persistence of Vision Ray Tracer Scene Description File
+// File: ?.pov
+// Vers: 3.5
+// Desc: LightsysIV Indoor Scene Example
+// Date: mm/dd/yy
+// Auth: ?
+//
+
+#version 3.5;
+
+#include "colors.inc"
+#include "CIE.inc"
+#include "lightsys.inc"
+#include "lightsys_constants.inc"
+#include "espd_lightsys.inc"
+
+global_settings {
+  assumed_gamma 1.0
+  radiosity {}
+}
+
+#default {finish {ambient 0 diffuse 1}}
+
+// -----------------------------------------------------
+CIE_ColorSystemWhitepoint(Beta_ColSys, Blackbody2Whitepoint(Kt_Indoor_Film))
+
+#declare Lightsys_Brightness = 1.0;
+
+// -----------------------------------------------------
+camera {
+  location  <0.0, 60, -150.0>
+  direction 1.0*z
+  right     x*image_width/image_height
+  look_at   <0.0, 45,  0.0>
+}
+
+object {
+  Light(
+    EmissiveSpectrum(ES_GE_SW_Incandescent_100w), 
+    Lm_Incandescent_100w, 
+    x*25, z*25, 4, 4, on
+  )
+  translate <-100, 290, -100>
+}   
+
+// ----------------------------------------
+
+box { 
+  -0.5, 0.5 inverse
+  scale <300,300,400>
+  translate y*149
+  pigment {rgb ReferenceRGB(<0.85,0.80,0.75>) }
+}
+
+plane { y, 0
+  pigment {checker rgb ReferenceRGB(Gray90) rgb ReferenceRGB(Gray05) scale 20}
+  finish {diffuse 0.85 reflection {0.15}}
+}
+
+sphere {
+  0.0, 25
+  texture {
+    pigment {
+      radial
+      frequency 2
+      color_map {
+        [0.00 color ReferenceRGB(Red)]    [0.25 color ReferenceRGB(Red)]
+        [0.25 color ReferenceRGB(Green)]  [0.50 color ReferenceRGB(Green)]
+        [0.50 color ReferenceRGB(Blue)]   [0.75 color ReferenceRGB(Blue)]
+        [0.75 color ReferenceRGB(Yellow)] [1.00 color ReferenceRGB(Yellow)]
+      }
+    }
+    finish { specular 0.6 }
+  }
+  rotate <-40, 30, 0>
+  translate y*25
+}

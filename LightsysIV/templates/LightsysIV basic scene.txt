@@ -1,0 +1,75 @@
+// Persistence of Vision Ray Tracer Scene Description File
+// File: ?.pov
+// Vers: 3.5
+// Desc: LightsysIV Basic Scene Example
+// Date: mm/dd/yy
+// Auth: ?
+//
+
+#version 3.5;
+
+#include "colors.inc"
+#include "CIE.inc"
+#include "lightsys.inc"
+
+global_settings {
+  assumed_gamma 1.0
+  radiosity {}
+}
+
+#default {finish {ambient 0 diffuse 1}}
+
+// -----------------------------------------------------
+CIE_ReferenceWhite(Illuminant_B)
+CIE_ColorSystemWhitepoint(CIE_ColSys, Daylight2Whitepoint(4850))
+CIE_ChromaticAdaption(off)
+CIE_GamutMapping(off)
+
+#declare Lightsys_Brightness = 0.65;
+
+// -----------------------------------------------------
+camera {
+  location  <0.0, 0.5, -6.0>
+  direction 1.0*z
+  right     x*image_width/image_height
+  look_at   <0.0, 0.5,  0.0>
+}
+
+sky_sphere {
+  pigment {
+    gradient y
+    color_map {
+      [0.0 rgb ReferenceRGB(<0.6,0.7,1.0>*Lightsys_Brightness) ]
+      [0.7 rgb ReferenceRGB(<0.0,0.1,0.8>*Lightsys_Brightness) ]
+    }
+  }
+}
+
+object {
+  Light(Daylight(5500), 1000, x*25, z*25, 4, 4, off)
+  translate <-120, 120, -120>
+}   
+
+// ----------------------------------------
+plane {
+  y, -1
+  pigment { color ReferenceRGB(<0.9,0.8,0.3>) }
+}
+
+sphere {
+  0.0, 1
+  texture {
+    pigment {
+      radial
+      frequency 2
+      color_map {
+        [0.00 color ReferenceRGB(Red)]    [0.25 color ReferenceRGB(Red)]
+        [0.25 color ReferenceRGB(Green)]  [0.50 color ReferenceRGB(Green)]
+        [0.50 color ReferenceRGB(Blue)]   [0.75 color ReferenceRGB(Blue)]
+        [0.75 color ReferenceRGB(Yellow)] [1.00 color ReferenceRGB(Yellow)]
+      }
+    }
+    finish { specular 0.6 }
+  }
+  rotate <-40, 30, 0>
+}
